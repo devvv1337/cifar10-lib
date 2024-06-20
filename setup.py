@@ -6,7 +6,7 @@ setup(
     description='A Python library for CIFAR-10 classification using traditional machine learning methods',
     author='Julien Cardi & Youssef Agoulif',
     author_email='265julien@gmail.com',
-    url='https://github.com/votre_nom/cifar10_classifier',
+    url='https://github.com/devvv1337/cifar10-lib',
     packages=find_packages(where='src'),
     package_dir={'': 'src'},
     install_requires=[

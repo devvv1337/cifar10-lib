@@ -166,6 +166,9 @@ This library aims to provide tools for benchmarking traditional machine learning
 - `knn`
 - `random_forest`
 - `svm`
+- `decision tree`
+
+
 
 ## Example Usage
 
@@ -220,7 +223,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 - Julien Cardi - [GitHub](https://github.com/devvv1337/)
 - Youssef Agoulif - [GitHub](https://github.com/you73/)
 
-For more details, visit the [GitHub repository](https://github.com/votre_nom/cifar10_classifier).
+For more details, visit the [GitHub repository](https://github.com/devvv1337/cifar10-lib).
 
 ## Acknowledgments
 
